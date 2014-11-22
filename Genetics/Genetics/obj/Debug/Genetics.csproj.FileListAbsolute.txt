@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\02-genetics\Genetics\Genetics\bin\Debug\Genetics.exe.config
+C:\Users\user\Desktop\02-genetics\Genetics\Genetics\obj\Debug\Genetics.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\02-genetics\Genetics\Genetics\bin\Debug\Genetics.exe
+C:\Users\user\Desktop\02-genetics\Genetics\Genetics\bin\Debug\Genetics.pdb
+C:\Users\user\Desktop\02-genetics\Genetics\Genetics\obj\Debug\Genetics.exe
+C:\Users\user\Desktop\02-genetics\Genetics\Genetics\obj\Debug\Genetics.pdb
